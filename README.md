@@ -7,16 +7,17 @@ Updated automatically every night from my study tracker.
 
 | | |
 |---|---|
-| DSA problems solved | 157 |
+| DSA problems solved | 159 |
 | CS fundamentals topics | 1 / 46 |
 | Project steps | 1 / 26 |
-| Active days in a row | 0 |
-| Last updated | 17 Nov 2026 |
+| Active days in a row | 1 |
+| Last updated | 18 Nov 2026 |
 
 ## Last 14 active days
 
 | Day | DSA | CS | Project | Applications |
 |---|---|---|---|---|
+| [Wed 18 Nov 2026](days/2026-11/2026-11-18.md) | 2 | 0 | 0 | 2 |
 | [Fri 13 Nov 2026](days/2026-11/2026-11-13.md) | 1 | 0 | 0 | 4 |
 | [Thu 12 Nov 2026](days/2026-11/2026-11-12.md) | 1 | 0 | 0 | 0 |
 | [Tue 10 Nov 2026](days/2026-11/2026-11-10.md) | 1 | 0 | 0 | 3 |
